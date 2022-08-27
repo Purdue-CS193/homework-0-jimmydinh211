@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Useful tools
+- Clear, concise instructions
+- Passionate lecturers
 
 1. Numbered
 2. List
